@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @einsaetze-finanzen
 - 👀 I’m interested in Swift, Python, JavaScript, (HTML, CSS) and servers.
-- 🌱 I’m currently creating a python-project with customtkinter or PYQT5F (I'm not so sure which one's better...)
+- 🌱 I’m currently creating a custom keyboard for me using ergogen
 - 😀 Please contact if you can help me!
 - 📫 How to reach me - with the Chat function
 
